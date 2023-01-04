@@ -3,4 +3,4 @@ Aquí tenemos un programa que compara las estadísticas de los equipos que van a
 
 Para hacer funcionar este programa, lo primero que hay que realizar es instalarse las versiones de la librerías de Python que se han dado en el archivo de requirements.txt. 
 
-Después de ello, se deberá descargar el código de jupyter y cambiar la clave de la API sportsdata.io por la propia del usuario. Después de eso, ya se podrá ejecutar el programa y se acabará exportando el pdf con la información. Las imágenes y tablas se deberían guardar en la misma carpeta que se está utilizando, para que después puedan volver a ser accedidas para crear el pdf. 
+Después de ello, se deberá descargar el código de jupyter. Para que todo funcione correctamente, hay que poner la Key personal de la API sportsdata.io y sustituirla por las X en el archivo config.txt. Después de eso, ya se podrá ejecutar el programa y se acabará exportando el pdf con la información. Las imágenes y tablas se deberían guardar en la misma carpeta que se está utilizando, para que después puedan volver a ser accedidas para crear el pdf. 
